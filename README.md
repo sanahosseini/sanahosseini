@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanahosseini
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Ionic v6 and Capacitor
-- 💞️ I’m looking to collaborate on Watch this Space
+- 🌱 I’m currently learning Angular and Ionic v7 with Capacitor
+- 💞️ I’m looking to collaborate on Platfio
 - 📫 How to reach me Gmail
 
 <!---
